@@ -15,7 +15,7 @@ Praticar Node.js, TypeScript, consumo de APIs (fetch), métodos de array e Progr
 ## Como instalar e executar
 
 1. Clone o repositório:
-   git clone [SEU_LINK_DO_GITHUB_AQUI]
+   git clone (https://github.com/WellWeberr/pokedex-typescript-lite)
 
 2. Acesse a pasta:
    cd pokedex-typescript-lite
